@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coder" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVzcmd0M3MzNWlxcHl2cTZ5eDN6Nmdlb3dwNXhrZWw0Y2NxcnhyaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-- 🔭 I’m currently working on **SaVyaMo**
+- 🔭 I’m currently working on **CI/CD pipeline**
 
 - 🌱 I’m currently learning **DevOps**
 
