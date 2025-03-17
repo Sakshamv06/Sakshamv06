@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A Junior DevOps Engineer at Keenable</h3>
 <img align="right" alt="Coder" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVzcmd0M3MzNWlxcHl2cTZ5eDN6Nmdlb3dwNXhrZWw0Y2NxcnhyaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-- 🔭 I’m currently working on **CI/CD pipeline**
+- 🔭 Constantly exploring new best practices in the DevOps ecosystem.
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 Always eager to learn new tools and technologies to enhance efficiency and collaboration between development and operations teams.
 
-- 💬 Ask me about **Python,Django,DevOps**
+- 💬 Ask me about **Linux,Docker,Podman,Jenkins,Kafka,Kubernetes,Python,Django**
 
 - 📫 How to reach me **sakshamv06@gmail.com**
 
